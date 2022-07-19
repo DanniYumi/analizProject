@@ -14,9 +14,11 @@
     text-decoration: underline;
     font-size: 20px;
     color: #F3EEEE;
+    
 }
 .nav-links-footer li{
     padding-bottom: 10px;
+    list-style-type: none;
 }
 .social-media{
     padding-top: 80px;

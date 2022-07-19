@@ -8,7 +8,7 @@ import '../css/Home.css'
 const Home = () => {
   return (
     <div >
-        <NavBar/>
+       
         <Header/>
         <div className="body-title">
               How to ride with us?
@@ -54,7 +54,7 @@ const Home = () => {
               <div className='service-text'>
             Check our services and Fairs
                 </div>
-                <a href='/#' className='btn-service'>
+                <a href='/#' className='btn'>
                     Services
                 </a>
               </div>
